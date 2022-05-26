@@ -8,7 +8,7 @@ npx create-solito-app@latest my-solito-app
 
 ## ⚡️ Instantly clone & deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fnandorojo%2Fsolito%2Ftree%2Fmaster%2Fexample-monorepos%2Fblank&env=ENABLE_ROOT_PATH_BUILD_CACHE&root-directory=apps/next&envDescription=Set%20this%20environment%20variable%20to%201%20for%20Turborepo%20to%20cache%20your%20node_modules.&envLink=https%3A%2F%2Ftwitter.com%2Fjaredpalmer%2Fstatus%2F1488954563533189124&project-name=solito-app&repo-name=solito-app&demo-title=Solito%20App%20%E2%9A%A1%EF%B8%8F&demo-description=React%20Native%20%2B%20Next.js%20starter%20with%20Solito.%20Made%20by%20Fernando%20Rojo.&demo-url=https%3A%2F%2Fsolito.dev%2Fstarter&demo-image=https%3A%2F%2Fsolito.dev%2Fimg%2Fog.png)
+[![Deploy with Vercel]([![Deploy with Vercel](https%3A%2F%2Fvercel.com%2Fbutton%29%5D%28https%3A%2F%2Fvercel.com%2Fnew%2Fclone%3Frepository-url%3Dhttps%3A%2F%2Fgithub.com%2Fsoltrinox%2Fsolito%2Ftree%2Fmaster%2Fexample-monorepos%2Fblank%26env%3DENABLE_ROOT_PATH_BUILD_CACHE%26root-directory%3Dapps%2Fnext%26envDescription%3DSET.to.1%26envLink%3Dhttps%3A%2F%2Fwww.rowzzy.com%26project-name%3DNeuroAuth%26repo-name%3Dsolito-app%26demo-title%3DNeuroAuth%E2%9A%A1%EF%B8%8F%26demo-description%3DNeuroAuth+Wallet%26demo-url%3Dhttps%3A%2F%2Fsolito.dev%2Fstarter%26demo-image%3Dhttps%3A%2F%2Fsolito.dev%2Fimg%2Fog.png)
 
 ## 🔦 About
 
