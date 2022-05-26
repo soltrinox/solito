@@ -9,7 +9,7 @@ npx create-solito-app@latest my-solito-app
 ## ⚡️ Instantly clone & deploy
 
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsoltrinox%2Fsolito%2Ftree%2Fmaster%2Fexample-monorepos%2Fblank%26env=ENABLE_ROOT_PATH_BUILD_CACHE%26root-directory=apps%2Fnext%26envDescription=Set.to.1%26envLink=https%3A%2F%2Ftwitter.com%2Fjaredpalmer%2Fstatus%2F1488954563533189124%26project-name=NeuroAuth%26repo-name=neuroauth-wallet1%26demo-title=NeuroAuth%E2%9A%A1%EF%B8%8F%26demo-description=NeuroAuthWallet.%26demo-url=https%3A%2F%2Fneurometric.io%26demo-image=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F62032c22eb7f645bb90d6511%2F1648424015690-Y6ULD3QK3VOABLMF8XA9%2Frowzzy-neuro-auth-logo.jpg%3Fformat=300w)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsoltrinox%2Fsolito%2Ftree%2Fmaster%2Fexample-monorepos%2Fblank&env=ENABLE_ROOT_PATH_BUILD_CACHE&root-directory=apps%2Fnext&envDescription=Set.to.1&envLink=https%3A%2F%2Ftwitter.com%2Fjaredpalmer%2Fstatus%2F1488954563533189124&project-name=NeuroAuth&repo-name=neuroauth-wallet1&demo-title=NeuroAuth%E2%9A%A1%EF%B8%8F&demo-description=NeuroAuthWallet.&demo-url=https%3A%2F%2Fneurometric.io&demo-image=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F62032c22eb7f645bb90d6511%2F1648424015690-Y6ULD3QK3VOABLMF8XA9%2Frowzzy-neuro-auth-logo.jpg%3Fformat=300w)
 
 ## 🔦 About
 
